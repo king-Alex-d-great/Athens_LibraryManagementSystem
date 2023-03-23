@@ -1,4 +1,4 @@
-name: .NET
+name: .NETTwo
 on:
   push:
     branches: [ "mainv2" ]
