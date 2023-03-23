@@ -19,7 +19,6 @@ namespace AthensLibrary.Model.Entities
         public string CreatedBy { get; set; }
         public string BorrowerId { get; set; }
         public byte BorrowCount { get; set; } = default;
-        public bool IsActive { get; set; }       
-
+        public bool IsActive { get; set; }
     }
 }
