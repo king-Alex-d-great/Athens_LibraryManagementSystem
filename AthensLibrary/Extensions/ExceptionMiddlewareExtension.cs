@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Threading.Tasks;
-using AthensLibrary.Model.Helpers.HelperClasses;
+﻿using AthensLibrary.Model.Helpers.HelperClasses;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
+using System.Net;
 
 namespace AthensLibrary.Extensions
 {
